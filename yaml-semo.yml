@@ -1,0 +1,35 @@
+
+yee:
+   Age: 30
+   Name: Jacob
+   Payslips: 
+    - Month: June
+      Wage: 4000
+    - Month: July
+      Wage: 5000
+    - Month: August
+      Wage: 6000
+   Projects: 
+     - Automation
+     - Support
+   Sex: male
+   Title: "System Engineer"
+
+- Employee:
+   Age: 29
+   Name: Jacob
+   Payslips: 
+    - Month: June
+      Wage: 4000
+    - Month: July
+      Wage: 5000
+    - Month: August
+      Wage: 6000
+   Projects:
+     - Automation
+     - Support
+   Sex: male
+   Title: "System Engineer"
+
+
+...
